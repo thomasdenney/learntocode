@@ -13,7 +13,7 @@ Finally, we'll take a look at other places that the knowledge that you've
 gained from Python can be applied, such as data processing, machine learning,
 and image recognition.
 
-[s4notes]: https://github.com/oxcompsoc/learntocode/tree/master/session4/README.md
+[s4notes]: https://github.com/thomasdenney/learntocode/tree/master/session4/README.md
 
 **The screencast for this week is [here][s5video].**
 
@@ -54,7 +54,7 @@ d["c"] = "Cat"
 
 for k in d:
     print(k)
-    
+
 # prints:
 # a
 # b
@@ -68,7 +68,7 @@ d = { "a" : "Aardvark", "b": "Badger", "c": "Cat" }
 
 for k in d:
     print(k)
-    
+
 # prints:
 # a
 # b
@@ -82,7 +82,7 @@ d = { "a" : "Aardvark", "b": "Badger", "c": "Cat" }
 
 for k in d:
     print(d[k])
-    
+
 # prints:
 # Aardvark
 # Badger
@@ -92,9 +92,9 @@ for k in d:
 Last week we introduced an [exercise][s4exercise] for counting which words
 appear in a piece of text. You can find the [solution here][s4solution].
 
-[dictS4]: https://github.com/oxcompsoc/learntocode/blob/master/session4/README.md#dictionaries
-[s4exercise]: https://github.com/oxcompsoc/learntocode/tree/master/session4#dictionary-exercise
-[s4solution]: https://github.com/oxcompsoc/learntocode/blob/master/session4/wc.py
+[dictS4]: https://github.com/thomasdenney/learntocode/blob/master/session4/README.md#dictionaries
+[s4exercise]: https://github.com/thomasdenney/learntocode/tree/master/session4#dictionary-exercise
+[s4solution]: https://github.com/thomasdenney/learntocode/blob/master/session4/wc.py
 
 We can use dictionaries to represent **graphs**. A graph is a collection of
 **vertices** (also called **nodes**) connected by **edges** (i.e. arrows
@@ -198,7 +198,7 @@ for instruction in instructions:
         stack.append(x + y) # Push the result
     else:
         stack.append(instruction) # This is just a number
-        
+
 print(stack)
 ```
 
@@ -260,7 +260,7 @@ You can probably implement straightforward problems like [linear
 regression][linreg] with the Python knowledge that you have so far (provided
 that you've seen some linear algebra before).
 
-[linreg]: https://en.wikipedia.org/wiki/Linear_regression 
+[linreg]: https://en.wikipedia.org/wiki/Linear_regression
 
 You might want to take a look at [Applied Machine Learning in
 Python](https://www.coursera.org/learn/python-machine-learning) on Coursera.

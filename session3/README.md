@@ -2,11 +2,11 @@
 
 See [here][s2notes] for last week's content.
 
-[s2notes]: https://github.com/oxcompsoc/learntocode/tree/master/session2
+[s2notes]: https://github.com/thomasdenney/learntocode/tree/master/session2
 
 **You can find all the [solutions here][solutions] and watch the [screencast here][video]**
 
-[solutions]: https://raw.githubusercontent.com/oxcompsoc/learntocode/master/session3/solutions.py
+[solutions]: https://raw.githubusercontent.com/thomasdenney/learntocode/master/session3/solutions.py
 [video]: https://www.youtube.com/watch?v=TU1aisio7IU
 
 ## Lists
@@ -292,7 +292,7 @@ This exercise requires you to adapt the [binary search algorithm][binsearch]
 seen last week. Given a sorted list of strings, find the least index of an
 element with that value. One way we could do this is:
 
-[binsearch]: https://github.com/oxcompsoc/learntocode/tree/master/session2#binary-search-algorithm
+[binsearch]: https://github.com/thomasdenney/learntocode/tree/master/session2#binary-search-algorithm
 
 ```python
 def search(xs, x):
@@ -409,20 +409,20 @@ def poly_prod(xs, ys):
 
 **Hint:** you can create a list of `0`s of length `n` in Python with `[0] * n`.
 
-[exercise1]: https://raw.githubusercontent.com/oxcompsoc/learntocode/master/session3/exercise1.py
-[exercise2]: https://raw.githubusercontent.com/oxcompsoc/learntocode/master/session3/exercise2.py
-[exercise3]: https://raw.githubusercontent.com/oxcompsoc/learntocode/master/session3/exercise3.py
-[exercise4]: https://raw.githubusercontent.com/oxcompsoc/learntocode/master/session3/exercise4.py
-[exercise5]: https://raw.githubusercontent.com/oxcompsoc/learntocode/master/session3/exercise5.py
-[exercise6]: https://raw.githubusercontent.com/oxcompsoc/learntocode/master/session3/exercise6.py
-[exercise7]: https://raw.githubusercontent.com/oxcompsoc/learntocode/master/session3/exercise7.py
-[exercise8]: https://raw.githubusercontent.com/oxcompsoc/learntocode/master/session3/exercise8.py
-[exercise9]: https://raw.githubusercontent.com/oxcompsoc/learntocode/master/session3/exercise9.py
-[exercise10]: https://raw.githubusercontent.com/oxcompsoc/learntocode/master/session3/exercise10.py
-[exercise11]: https://raw.githubusercontent.com/oxcompsoc/learntocode/master/session3/exercise11.py
-[exercise12]: https://raw.githubusercontent.com/oxcompsoc/learntocode/master/session3/exercise12.py
-[exercise13]: https://raw.githubusercontent.com/oxcompsoc/learntocode/master/session3/exercise13.py
-[exercise14]: https://raw.githubusercontent.com/oxcompsoc/learntocode/master/session3/exercise14.py
-[exercise15]: https://raw.githubusercontent.com/oxcompsoc/learntocode/master/session3/exercise15.py
-[exercise16]: https://raw.githubusercontent.com/oxcompsoc/learntocode/master/session3/exercise16.py
-[exercise17]: https://raw.githubusercontent.com/oxcompsoc/learntocode/master/session3/exercise17.py
+[exercise1]: https://raw.githubusercontent.com/thomasdenney/learntocode/master/session3/exercise1.py
+[exercise2]: https://raw.githubusercontent.com/thomasdenney/learntocode/master/session3/exercise2.py
+[exercise3]: https://raw.githubusercontent.com/thomasdenney/learntocode/master/session3/exercise3.py
+[exercise4]: https://raw.githubusercontent.com/thomasdenney/learntocode/master/session3/exercise4.py
+[exercise5]: https://raw.githubusercontent.com/thomasdenney/learntocode/master/session3/exercise5.py
+[exercise6]: https://raw.githubusercontent.com/thomasdenney/learntocode/master/session3/exercise6.py
+[exercise7]: https://raw.githubusercontent.com/thomasdenney/learntocode/master/session3/exercise7.py
+[exercise8]: https://raw.githubusercontent.com/thomasdenney/learntocode/master/session3/exercise8.py
+[exercise9]: https://raw.githubusercontent.com/thomasdenney/learntocode/master/session3/exercise9.py
+[exercise10]: https://raw.githubusercontent.com/thomasdenney/learntocode/master/session3/exercise10.py
+[exercise11]: https://raw.githubusercontent.com/thomasdenney/learntocode/master/session3/exercise11.py
+[exercise12]: https://raw.githubusercontent.com/thomasdenney/learntocode/master/session3/exercise12.py
+[exercise13]: https://raw.githubusercontent.com/thomasdenney/learntocode/master/session3/exercise13.py
+[exercise14]: https://raw.githubusercontent.com/thomasdenney/learntocode/master/session3/exercise14.py
+[exercise15]: https://raw.githubusercontent.com/thomasdenney/learntocode/master/session3/exercise15.py
+[exercise16]: https://raw.githubusercontent.com/thomasdenney/learntocode/master/session3/exercise16.py
+[exercise17]: https://raw.githubusercontent.com/thomasdenney/learntocode/master/session3/exercise17.py

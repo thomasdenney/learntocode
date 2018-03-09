@@ -30,24 +30,24 @@ and their solutions.
 | Session 4: Lists (cont.) and Dictionaries                     | 5    | [Notes][s4notes]  | [Slides][s4slides] | [Video][s4video] |
 | Session 5: Dictionaries, stacks, and where to go next         | 6    | [Notes][s5notes]  | [Slides][s5slides] | [Video][s5video] |
 
-[s0notes]: https://github.com/oxcompsoc/learntocode/tree/master/session0/README.md
+[s0notes]: https://github.com/thomasdenney/learntocode/tree/master/session0/README.md
 
-[s1notes]: https://github.com/oxcompsoc/learntocode/tree/master/session1/README.md
-[s1slides]: https://github.com/oxcompsoc/learntocode/blob/master/session1/Slides.pdf
+[s1notes]: https://github.com/thomasdenney/learntocode/tree/master/session1/README.md
+[s1slides]: https://github.com/thomasdenney/learntocode/blob/master/session1/Slides.pdf
 [s1video]: https://youtu.be/yAzp_pRXVPg
 
-[s2notes]: https://github.com/oxcompsoc/learntocode/tree/master/session2/README.md
-[s2slides]: https://github.com/oxcompsoc/learntocode/blob/master/session2/slides.pdf
+[s2notes]: https://github.com/thomasdenney/learntocode/tree/master/session2/README.md
+[s2slides]: https://github.com/thomasdenney/learntocode/blob/master/session2/slides.pdf
 [s2video]: https://youtu.be/orWvOaR0p8E
 
-[s3notes]: https://github.com/oxcompsoc/learntocode/tree/master/session3/README.md
-[s3slides]: https://github.com/oxcompsoc/learntocode/blob/master/session3/slides.pdf
+[s3notes]: https://github.com/thomasdenney/learntocode/tree/master/session3/README.md
+[s3slides]: https://github.com/thomasdenney/learntocode/blob/master/session3/slides.pdf
 [s3video]: https://www.youtube.com/watch?v=TU1aisio7IU
 
-[s4notes]: https://github.com/oxcompsoc/learntocode/tree/master/session4/README.md
-[s4slides]: https://github.com/oxcompsoc/learntocode/blob/master/session4/slides.pdf
+[s4notes]: https://github.com/thomasdenney/learntocode/tree/master/session4/README.md
+[s4slides]: https://github.com/thomasdenney/learntocode/blob/master/session4/slides.pdf
 [s4video]: https://youtu.be/E-QXg8Gc-nU
 
-[s5notes]: https://github.com/oxcompsoc/learntocode/tree/master/session5/README.md
-[s5slides]: https://github.com/oxcompsoc/learntocode/blob/master/session5/slides.pdf
+[s5notes]: https://github.com/thomasdenney/learntocode/tree/master/session5/README.md
+[s5slides]: https://github.com/thomasdenney/learntocode/blob/master/session5/slides.pdf
 [s5video]: https://youtu.be/uDT3xMpaCKY

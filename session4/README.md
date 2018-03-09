@@ -28,7 +28,7 @@ first_element = xs[0] # has value "Anything"
 last_element = xs[3] # has value "Here"
 ```
 
-[s3notes]: https://github.com/oxcompsoc/learntocode/tree/master/session3
+[s3notes]: https://github.com/thomasdenney/learntocode/tree/master/session3
 
 In today's session we are going to continue looking at lists by continuing with
 some of the exercises from last week's session (we deliberately wrote far too
@@ -36,12 +36,12 @@ many for a single session). As we covered solutions to the first three
 exercises in last week's session, we'd like to encourage you to start at
 [exercise 4][s3e4].
 
-[s3e4]: https://github.com/oxcompsoc/learntocode/tree/master/session3#exercise-4-flattening-lists
+[s3e4]: https://github.com/thomasdenney/learntocode/tree/master/session3#exercise-4-flattening-lists
 
 If you get stuck, as well as asking a volunteer for help, you can also look at
 [last week's solutions][s3solutions] and [last week's video][s3video].
 
-[s3solutions]: https://raw.githubusercontent.com/oxcompsoc/learntocode/master/session3/solutions.py
+[s3solutions]: https://raw.githubusercontent.com/thomasdenney/learntocode/master/session3/solutions.py
 [s3video]: https://www.youtube.com/watch?v=TU1aisio7IU
 
 ## Dictionaries
@@ -113,7 +113,7 @@ Dictionaries are also often used to represent [graphs][].
 Please note that in many other programming languages what Python calls a
 dictionary is instead called a [map][].
 
-[map]: https://en.wikipedia.org/wiki/Associative_array 
+[map]: https://en.wikipedia.org/wiki/Associative_array
 
 ### Dictionary exercise
 

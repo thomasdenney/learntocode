@@ -3,7 +3,7 @@
 The first thing that you’ll need to do is install Python installed on your
 computer. You can find information on how to do that [here][install].
 
-[install]: https://github.com/oxcompsoc/learntocode/tree/master/session0
+[install]: https://github.com/thomasdenney/learntocode/tree/master/session0
 
 Throughout these documents note that text in a `monospaced font` is Python code.
 

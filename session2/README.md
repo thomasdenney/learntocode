@@ -3,7 +3,7 @@
 See [here][week1] for last week's content. Session 2 was on 1/2/18 (HT18 Thurs
 week 3).
 
-[week1]: https://github.com/oxcompsoc/learntocode/tree/master/session1
+[week1]: https://github.com/thomasdenney/learntocode/tree/master/session1
 
 **You can watch a [screencast of this session here][video].**
 
